@@ -1,0 +1,2 @@
+# Parallax-Effect
+ This "Parallax Effect" GitHub repository is a project that focuses on implementing the parallax scrolling technique using HTML and CSS. Parallax scrolling is a popular web design trend that creates a visually appealing and dynamic effect by moving different elements on a webpage at different speeds as the user scrolls down the page. This gives the illusion of depth and can make the website feel more interactive and engaging.
